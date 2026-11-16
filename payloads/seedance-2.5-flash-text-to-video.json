@@ -1,0 +1,9 @@
+{
+  "model": "seedance-2.5-flash",
+  "input": {
+    "prompt": "A paper boat drifts down a rain-filled street gutter at dusk, neon reflections rippling on the water, soft rain sounds.",
+    "duration": 4,
+    "resolution": "480p",
+    "aspect_ratio": "16:9"
+  }
+}

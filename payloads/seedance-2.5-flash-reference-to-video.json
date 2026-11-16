@@ -1,0 +1,18 @@
+{
+  "model": "seedance-2.5-flash",
+  "input": {
+    "prompt": "Use @Image1 for the red fox with its brass compass. Follow the trotting rhythm and side-tracking camera of @Video1, and match the mood of @Audio1. The fox crosses a misty forest clearing at dawn. No subtitles.",
+    "reference_image_urls": [
+      "https://storage.poyo.ai/models/seedance-2-5/examples/inputs/reference-fox-image.webp"
+    ],
+    "reference_video_urls": [
+      "https://storage.poyo.ai/models/seedance-2-5/examples/inputs/reference-fox-motion.mp4"
+    ],
+    "reference_audio_urls": [
+      "https://storage.poyo.ai/models/seedance-2-5/examples/inputs/reference-fox-audio.mp3"
+    ],
+    "duration": 4,
+    "resolution": "480p",
+    "aspect_ratio": "16:9"
+  }
+}

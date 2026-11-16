@@ -1,0 +1,12 @@
+{
+  "model": "seedance-2.5-flash",
+  "input": {
+    "prompt": "The red fox lifts its head, sniffs the morning air, and trots out of frame. Soft birdsong and rustling leaves.",
+    "image_urls": [
+      "https://storage.poyo.ai/models/seedance-2-5/examples/inputs/reference-fox-image.webp"
+    ],
+    "duration": 4,
+    "resolution": "480p",
+    "aspect_ratio": "auto"
+  }
+}
