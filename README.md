@@ -1,6 +1,6 @@
 # Seedance 2.5 Flash API: cURL, Python, and Node.js Examples
 
-[![Seedance 2.5 Flash on PoYo](https://img.shields.io/badge/Try%20on%20PoYo-seedance--2.5--flash-84cc16)](https://poyo.ai/models/seedance-2-5-flash?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-5-flash-api) [![API docs](https://img.shields.io/badge/API-docs-22d3ee)](https://docs.poyo.ai/api-manual/video-series/seedance-2-5-flash?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-5-flash-api) [![Check](https://github.com/PoyoAPI/seedance-2-5-flash-api/actions/workflows/check.yml/badge.svg)](https://github.com/PoyoAPI/seedance-2-5-flash-api/actions/workflows/check.yml)
+[![Seedance 2.5 Flash on PoYo](https://img.shields.io/badge/Try%20on%20PoYo-seedance--2.5--flash-84cc16)](https://poyo.ai/models/seedance-2-5-flash?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-5-flash-api) [![API docs](https://img.shields.io/badge/API-docs-22d3ee)](https://docs.poyo.ai/api-manual/video-series/seedance-2-5-flash?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-5-flash-api) [![Check](https://github.com/PoyoAPI/Seedance-2.5-Flash-API/actions/workflows/check.yml/badge.svg)](https://github.com/PoyoAPI/Seedance-2.5-Flash-API/actions/workflows/check.yml)
 
 Runnable examples for ByteDance **Seedance 2.5 Flash** through PoYo's async video API: 4–30 second 480p or 720p videos with synchronized audio from text, first and last frames, or image, video, and audio references.
 
@@ -83,7 +83,7 @@ Seedance 2.5 Flash is the faster, lower-cost tier of ByteDance Seedance 2.5. Acc
 | 480p, no reference video | 18.5 credits ($0.0925) per second | 28 credits ($0.14) per second |
 | 720p, no reference video | 41 credits ($0.205) per second | 63 credits ($0.315) per second |
 
-Choose Flash for drafts, high-volume social clips, and fast iteration. For 1080p delivery or more than 10 reference images, use [Seedance 2.5](https://github.com/PoyoAPI/seedance-2-5-api).
+Choose Flash for drafts, high-volume social clips, and fast iteration. For 1080p delivery or more than 10 reference images, use [Seedance 2.5](https://github.com/PoyoAPI/Seedance-2.5-API).
 
 ## Quickstart
 
@@ -250,8 +250,8 @@ A task that fails after submission returns `status: "failed"` with `error_messag
 
 ## Related repositories
 
-- [seedance-2-5-api](https://github.com/PoyoAPI/seedance-2-5-api) — Seedance 2.5 with 1080p and larger reference sets
-- [seedance-2-mini-api](https://github.com/PoyoAPI/seedance-2-mini-api) — Seedance 2.0 Mini examples
+- [seedance-2-5-api](https://github.com/PoyoAPI/Seedance-2.5-API) — Seedance 2.5 with 1080p and larger reference sets
+- [seedance-2-mini-api](https://github.com/PoyoAPI/Seedance-2.0-Mini-API) — Seedance 2.0 Mini examples
 - [poyo-examples](https://github.com/PoyoAPI/poyo-examples) — examples across PoYo models
 - [poyo-devtools](https://github.com/PoyoAPI/poyo-devtools) — PoYo CLI, MCP bridge, and Agent Skill (MCP tool `poyo_seedance_2_5_flash`)
 
